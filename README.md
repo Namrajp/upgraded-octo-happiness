@@ -32,3 +32,25 @@ Ranking | Score
 > If we pull together and commit ourselves, then we can push through anything.
 
 — Mona the Octocat
+
+## Markdown
+Few markdown examples are here
+### Lists unordered
+- George Washington
+* John Adams
++ Thomas Jefferson
+
+### Nested Lists
+1. First list item
+   - First nested list item
+     - Second nested list item
+
+### Task lists
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
+@github/support What do you think about these updates?
+
+
+
